@@ -1,0 +1,24 @@
+header {
+    color: rgb(185, 139, 53);
+    font-size: large;
+    font-family: Georgia, serif;
+    font-style: oblique;
+    text-align: center;
+}
+
+#main-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+h3 {
+    color: rgb(185, 139, 53);
+    font-family: Georgia, serif;
+
+}
+
+body {
+    background-color: rgb(243, 210, 161);
+}
